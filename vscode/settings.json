@@ -1,0 +1,21 @@
+{
+  "vim.normalModeKeybindingsNonRecursive": [
+    {
+      "before": [
+        ";"
+      ],
+      "after": [
+        ":"
+      ]
+    }
+  ],
+  "editor.minimap.enabled": false,
+  "workbench.colorTheme": "Atom One Dark",
+  "eslint.format.enable": true,
+  "editor.formatOnSave": true,
+  "errorLens.enabledDiagnosticLevels": [
+    "warning",
+    "info",
+    "error"
+  ]
+}
